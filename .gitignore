@@ -1,0 +1,20 @@
+# data
+/data/*
+!.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+.ipynb_checkpoints/
+
+# Spark
+*.parquet
+
+# Jupyter
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

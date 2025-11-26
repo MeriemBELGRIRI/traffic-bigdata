@@ -1,0 +1,8 @@
+pyspark==3.4.1
+pandas
+jupyterlab
+keplergl
+geopandas
+shapely
+pyarrow
+fastparquet
